@@ -1,3 +1,9 @@
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://i.imgur.com/3ZQ3Z6F.png" alt="Balram's Banner" width="100%" />
+  <!-- Replace the above URL with your own custom banner if you wish! -->
+</p>
+
 # 👋 Hi, I'm Balram!
 
 👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
@@ -6,19 +12,10 @@
 
 ---
 
-## 🚀 Pinned Projects
-
-- [Ultimate Xbox Promo Puller](https://github.com/Balram-1/ultimate_xbox_promo_puller)  
-  Tool to pull Xbox accounts and extract valid 3-month Discord Nitro promo codes[1].
-
-- [Spotify Account Generator (Request Based)](https://github.com/Balram-1/spotify-account-generator-request-based)  
-  Generate Spotify accounts efficiently.
-
-- [Selfbot](https://github.com/Balram-1/selfbot)  
-  Personal Discord selfbot utilities.
-
-- [Personal Portfolio Website](https://github.com/Balram-1/personal-portfolio-website)  
-  My portfolio site (coming soon).
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Balram-1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
@@ -38,3 +35,9 @@ _Coming soon!_
 
 - Discord: **@balrampreet1** / **@balramog**
 
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Balram-1&show_icons=true&theme=radical" alt="Balram's GitHub Stats" />
+</p>
