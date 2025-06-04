@@ -8,7 +8,7 @@
 
 👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
 🔐 Breaking barriers, not systems | 🚀 Building exciting tools  
-🎯 Currently crafting smarter and faster
+🎯 Currently crafting smarter and faster.
 
 ---
 
