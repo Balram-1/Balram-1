@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4c/62/32/4c62321384b168043ab7aea2f4f7f83d.jpg" alt="Balram's Banner" width="100%" />
+  <img src="https://ibb.co/nMzNQZSv" alt="Balram's Banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Balram!
