@@ -1,8 +1,8 @@
 <!-- Banner Section -->
 <p align="center">
-  ![standard](https://github.com/user-attachments/assets/5ca76775-ce1a-4458-a823-d1077aa31268)
-
+  <img src="https://github.com/user-attachments/assets/5ca76775-ce1a-4458-a823-d1077aa31268" alt="standard"/>
 </p>
+
 
 # 👋 Hi, I'm Balram!
 
