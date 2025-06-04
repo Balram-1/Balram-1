@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Balram!
 
-<!--
-**Balram-1/Balram-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
+🔐 Breaking barriers, not systems | 🚀 Building exciting tools  
+🎯 Currently crafting smarter and faster
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Pinned Projects
+
+- [Ultimate Xbox Promo Puller](https://github.com/Balram-1/ultimate_xbox_promo_puller)  
+  Tool to pull Xbox accounts and extract valid 3-month Discord Nitro promo codes[1].
+
+- [Spotify Account Generator (Request Based)](https://github.com/Balram-1/spotify-account-generator-request-based)  
+  Generate Spotify accounts efficiently.
+
+- [Selfbot](https://github.com/Balram-1/selfbot)  
+  Personal Discord selfbot utilities.
+
+- [Personal Portfolio Website](https://github.com/Balram-1/personal-portfolio-website)  
+  My portfolio site (coming soon).
+
+---
+
+## 🛒 My Sellauth Store
+
+- [UltimateTools Sellauth](https://ultimatetools.mysellauth.com/)
+
+---
+
+## 🌐 My Website
+
+_Coming soon!_
+
+---
+
+## 📞 Contact
+
+- Discord: **@balrampreet1** / **@balramog**
+
