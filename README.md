@@ -1,6 +1,7 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://ibb.co/nMzNQZSv" alt="Balram's Banner" width="100%" />
+  ![standard](https://github.com/user-attachments/assets/5ca76775-ce1a-4458-a823-d1077aa31268)
+
 </p>
 
 # 👋 Hi, I'm Balram!
