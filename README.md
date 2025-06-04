@@ -47,8 +47,13 @@
 ## 🟩 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/Balram-1/Balram-1/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Balram-1/Balram-1/output/github-snake.svg" />
+  </picture>
 </p>
+
 
 <p align="center">
   <!-- Custom Contribution Bar (15 squares, latest on the right) -->
