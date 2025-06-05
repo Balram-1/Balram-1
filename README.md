@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balram-1&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Balram's GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Balram-1&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Balram's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram-1&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
 </p>
 
