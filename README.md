@@ -70,7 +70,7 @@
 
 ## 🌐 My Website
 
-_Coming soon!_
+[flexamcfun my site](https://www.flexamc.fun/)
 
 ---
 
