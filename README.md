@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Balram!
 
 👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
-🔐 Breaking barriers, not systems | 🚀 Building exciting tools  
+🔐 Breaking barriers, not systems | 🚀 Building exciting tools.  
 🎯 Currently crafting smarter and faster.
 
 ---
