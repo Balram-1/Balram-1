@@ -4,7 +4,7 @@
 </p>
 
 
-# 👋 Hi, I'm Balram!
+# 👋 Hi, I'm Balram! (aka sh4d0wtrail)
 
 👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
 🔐 Breaking barriers, not systems | 🚀 Building exciting tools.  
