@@ -72,7 +72,7 @@
 
 ## 🌐 My Website
 
-[flexamcfun my site](https://www.flexamc.fun/)
+[relayverse](https://relayverse.site/)
 [loopdev](https://loopdev.xyz/)
 
 ---
