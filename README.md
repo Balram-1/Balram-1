@@ -4,7 +4,7 @@
 </p>
 
 
-# 👋 Hi, I'm Balram! (sh4d0wtraill)
+# 👋 Hi, I'm Balram! AKA (sh4d0wtraill)
 
 👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
 🔐 Breaking barriers, not systems | 🚀 Building exciting tools.  
@@ -69,8 +69,8 @@
 
 ## 📞 Contact
 
-- Discord: **@balrampreet1** / **@balramog**
-- Gmail: **balrampreet116699@gmail.com**
+- Discord: **@f1a.g** / **@balram5469**
+- Gmail: **balrampreet@tutamail.com**
 
 ---
 
