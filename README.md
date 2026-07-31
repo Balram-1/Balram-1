@@ -7,7 +7,7 @@
 # 👋 Hi, I'm Balram! AKA (sh4d0wtraill)
 
 👨‍💻 Cybersecurity student | 🐍 Python enthusiast  
-🔐 Breaking barriers, not systems | 🚀 Building exciting tools.  
+🔐 Breaking systems | 🚀 Building exciting tools.  
 🎯 Currently crafting smarter and faster.
 
 ---
@@ -63,7 +63,7 @@
 ## 🌐 My Website
 
 [relayverse](https://relayverse.site/)
-[loopdev](https://loopdev.xyz/)
+
 
 ---
 
